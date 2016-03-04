@@ -1,0 +1,27 @@
+{
+  "resources": [
+    "static/assets/sfx.m4a"
+  ],
+  "spritemap": {
+    "bigjump": {
+      "start": 0,
+      "end": 0.5327210884353741,
+      "loop": false
+    },
+    "coin": {
+      "start": 4,
+      "end": 4.140181405895691,
+      "loop": false
+    },
+    "death": {
+      "start": 8,
+      "end": 9.000022675736961,
+      "loop": false
+    },
+    "jump": {
+      "start": 13,
+      "end": 13.33671201814059,
+      "loop": false
+    }
+  }
+}
